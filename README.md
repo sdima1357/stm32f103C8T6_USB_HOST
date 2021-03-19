@@ -1,2 +1,2 @@
 # stm32f103C8T6_USB_HOST
-Soft USB host
+USB-LS pure software host thru general IO pins. Up to 4 HID devices simultaneously
