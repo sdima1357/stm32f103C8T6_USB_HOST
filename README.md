@@ -1,0 +1,2 @@
+# stm32f103C8T6_USB_HOST
+Soft USB host
